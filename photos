@@ -1,0 +1,3 @@
+python script.py&
+cd output 
+libcamera-still -t 100000 --timelapse 180 --lores-width 500 --lores-height 500 -o H.jpg
